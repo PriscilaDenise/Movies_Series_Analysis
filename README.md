@@ -48,7 +48,7 @@ The Jupyter Notebook (`Streaming_Content_Analysis.ipynb`) is organized into the 
 ## Setup Instructions
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/PriscilaDenise/Movies_Series_Analysis>
    cd streaming-content-analysis
 2. **Install dependencies**
    ```bash
